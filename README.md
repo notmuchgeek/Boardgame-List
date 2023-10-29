@@ -38,8 +38,8 @@ A list for all the tabletop games that we provide during our club time.
 12. 马拉喀什 https://www.bilibili.com/video/BV1vE411d7wF
 13. 圣托里尼 https://www.bilibili.com/video/BV1iJ411G7js
 14. 斋浦尔 http://www.yihubg.com/rule-details/8a0dc61b-52d2-4623-957d-a36685119a0e
-15. 德国蟑螂
-16. 山屋惊魂
+15. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
+16. 山屋惊魂 https://www.bilibili.com/video/BV1w5411Y7q3/
  
  
 ## 中度桌游列表
@@ -79,10 +79,11 @@ A list for all the tabletop games that we provide during our club time.
 9. 沙丘 https://www.bilibili.com/video/BV16r4y1h7my
 10. 魔戒圣战 https://tesera.ru/images/items/134461/WOTR001-Rulebook_EN_web.pdf
 11. 冷战热斗 https://www.gmtgames.com/living_rules/TS_Rules_Deluxe.pdf
-12. 神秘大地
-13. 方舟动物园
-14. 工业都市：伯明翰
+12. 神秘大地 https://images.zmangames.com/filer_public/3c/b1/3cb1119d-85cb-4905-bfe6-d428a3024e1b/zm7240_terra_mystica_rules.pdf
+13. 方舟动物园 https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf
+14. 工业都市：伯明翰 http://files.roxley.com/Brass-Birmingham-Rulebook-2018.11.20-highlights.pdf
 
 
-##桌游租借
+## 桌游租借
 -目前分为押金和损耗：押金以二手价格，损耗为2镑一周。默认借阅时一周，最好周六活动期间来取和返还。
+-普通桌游请联系群里 xiaocen_dong ；血染钟楼请联系 木羽 ；三国杀请联系 段誉
