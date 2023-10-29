@@ -85,5 +85,5 @@ A list for all the tabletop games that we provide during our club time.
 
 
 ## 桌游租借
--目前分为押金和损耗：押金以二手价格，损耗为2镑一周。默认借阅时一周，最好周六活动期间来取和返还。
--普通桌游请联系群里 xiaocen_dong ；血染钟楼请联系 木羽 ；三国杀请联系 段誉
+ - 目前分为押金和损耗：押金以二手价格，损耗为2镑一周。默认借阅时一周，最好周六活动期间来取和返还。
+ - 普通桌游请联系群里 xiaocen_dong ；血染钟楼请联系 木羽 ；三国杀请联系 段誉
