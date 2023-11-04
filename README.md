@@ -68,7 +68,7 @@ A list for all the tabletop games that we provide during our club time.
 22. 西国建筑师 Architects of the West Kingdom
 23. 展翅翱翔 wingspan https://www.bilibili.com/video/BV1gL4y1q733
 24. 白教堂血案
-25. 我是大老板
+25. 我是大老板 https://www.bilibili.com/video/BV1uh411676w/
 26. 战国风云 Risk
  
 
