@@ -74,7 +74,7 @@ A list for all the tabletop games that we provide during our club time.
 
 ## 重策桌游列表： 
 1. 幽港迷城 (BGG排名第一) https://www.zhuoyou.com/Web/detail?news_id=726&orderBy=update
-2. 殖民火星 https://www.bilibili.com/video/BV1Vz4y1f72o
+2. 殖民火星 https://www.bilibili.com/video/BV1Vz4y1f72o   附线上联机网站：http://tm.jaing.me/
 3. 疯狂诡宅 Mansion of Madness 
 4. 星蚀 https://www.bilibili.com/video/BV1wG411b7vL
 5. 旭日战魂录 https://www.bilibili.com/video/BV1pt411b7ew
