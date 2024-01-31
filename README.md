@@ -65,7 +65,7 @@ A list for all the tabletop games that we provide during our club time.
 19. 指挥与军旗 拿破仑 https://www.gmtgames.com/living_rules/CC_Rules_2009.pdf
 20. 小白世纪 https://munchkin.game/site-munchkin/assets/files/1138/munchkin_rules-1.pdf
 21. 逃离亚特兰蒂斯 Escape from Atlantis https://www.bilibili.com/video/BV1DJ411i7iY
-22. 西国建筑师 Architects of the West Kingdom
+22. 西国建筑师 Architects of the West Kingdom https://www.bilibili.com/video/BV17B4y1P73Z/?spm_id_from=333.999.0.0
 23. 展翅翱翔 wingspan https://www.bilibili.com/video/BV1gL4y1q733
 24. 白教堂血案
 25. 我是大老板 https://www.bilibili.com/video/BV1uh411676w/
