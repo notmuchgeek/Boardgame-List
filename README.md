@@ -41,6 +41,7 @@ A list for all the tabletop games that we provide during our club time.
 15. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
 16. 山屋惊魂 https://www.bilibili.com/video/BV1w5411Y7q3/
 17. 王权暗战 Hidden Leaders
+18. 新创公司 startup 
  
  
 ## 中度桌游列表
@@ -72,6 +73,7 @@ A list for all the tabletop games that we provide during our club time.
 26. 战国风云 Risk
 27. 帝国毁灭 https://www.bilibili.com/video/BV19Y411o7qo/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 28. 源生引擎 https://www.bilibili.com/video/BV1kh411377w/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
+29. 苍翠之星 evergreen
  
 
 ## 重策桌游列表： 
@@ -93,6 +95,7 @@ A list for all the tabletop games that we provide during our club time.
 16. 帝国曙光 Twilight Imperium
 17. 火力战 https://www.bilibili.com/video/BV1u64y1e7mD/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 18. 王冠落地 https://www.bilibili.com/video/BV1KP4y1Y74B/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
+19. 明日方舟-游城拓荒：铸基者
 
 ## 桌游租借
  - 目前分为押金和损耗：押金以二手价格，损耗为2镑一周。默认借阅时一周，最好周六活动期间来取和返还。
