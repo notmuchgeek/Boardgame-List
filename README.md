@@ -6,17 +6,17 @@ A list for all the tabletop games that we provide during our club time.
 ## 桌游分类
 ### 轻策桌游
  - 五分钟内可以了解规则，大家或多或少玩过
- - 最长两小时一局，报名表填写意向（周六：13:00） 
+ - 最长两小时一局，报名表填写意向（周六：13:00，周一：18：00） 
  - 所玩桌游灵活决定：可投票，可按当时提供的游戏 
 
 ### 中度桌游 
  - 15分钟内可以开始游戏，最普遍欢迎的德系，美系桌游 
- - 2-4小时，报名表填写意向（周六：13:00） 
+ - 2-4小时，报名表填写意向（周六：13:00，周一：18：00） 
  - 会有老玩家在场，需要简单了解一下规则 
  
 ### 重策桌游
  - 规则复杂，教学困难，会建议详细了解规则
- - 一般游玩时间不定（>2.5小时），会通过前一次参加的活动了解具体情况
+ - 一般游玩时间不定（>3小时），会通过前一次参加的活动了解具体情况
 
 ### 其它桌游
  - 跑团，狼人杀，阿瓦隆，血染钟楼等
@@ -76,7 +76,7 @@ A list for all the tabletop games that we provide during our club time.
 1. 幽港迷城 (BGG排名第一) https://www.zhuoyou.com/Web/detail?news_id=726&orderBy=update
 2. 殖民火星 https://www.bilibili.com/video/BV1Vz4y1f72o 
 3. 疯狂诡宅 Mansion of Madness 
-4. 镰刀战争 https://cdn.1j1ju.com/medias/68/bc/6c-scythe-rulebook.pdf
+4. 工业都市：伯明翰 http://files.roxley.com/Brass-Birmingham-Rulebook-2018.11.20-highlights.pdf
 5. 盖亚计划 https://images.zmangames.com/filer_public/ce/89/ce890bfd-227e-4249-a52a-976bc5f20d19/en_gaia_rulebook_lo.pdf
 6. 沙丘 https://www.bilibili.com/video/BV16r4y1h7my
 7. 魔戒圣战 https://tesera.ru/images/items/134461/WOTR001-Rulebook_EN_web.pdf
@@ -84,12 +84,11 @@ A list for all the tabletop games that we provide during our club time.
 9. 神秘大地 https://images.zmangames.com/filer_public/3c/b1/3cb1119d-85cb-4905-bfe6-d428a3024e1b/zm7240_terra_mystica_rules.pdf
 10. 方舟动物园 https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf
 11. 大决战：淮海/豫济南战役 https://www.bilibili.com/video/BV1cp411Z7uT/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-12. 工业都市：伯明翰 http://files.roxley.com/Brass-Birmingham-Rulebook-2018.11.20-highlights.pdf
+12. 灵迹岛 Spirit Island
 13. 帝国曙光 Twilight Imperium
 14. 火力战 https://www.bilibili.com/video/BV1u64y1e7mD/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 15. 王冠落地 https://www.bilibili.com/video/BV1KP4y1Y74B/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 16. 明日方舟-游城拓荒：铸基者
-17. 灵迹岛 Spirit Island
 
 ## 桌游租借
  - 目前分为押金和损耗：押金以二手价格，损耗为2镑一周。默认借阅时一周，最好周六活动期间来取和返还。
