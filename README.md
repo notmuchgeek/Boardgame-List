@@ -32,16 +32,15 @@ A list for all the tabletop games that we provide during our club time.
 6. 矮人掘金 https://www.bilibili.com/video/BV14p4y1D7mC
 7. 政变疑云 https://www.bilibili.com/video/BV1LL4y1v73R
 8. 妙探寻凶 Cluedo https://tieba.baidu.com/p/128167024
-9. 爆炸猫 https://www.bilibili.com/video/BV1db411N7aE
-10. 小小马戏团 https://www.bilibili.com/video/BV1nf4y167ZC
-11. 情书 love letter https://www.bilibili.com/read/cv11594835
-12. 马拉喀什 https://www.bilibili.com/video/BV1vE411d7wF
-13. 圣托里尼 https://www.bilibili.com/video/BV1iJ411G7js
-14. 斋浦尔 http://www.yihubg.com/rule-details/8a0dc61b-52d2-4623-957d-a36685119a0e
-15. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
-16. 山屋惊魂 https://www.bilibili.com/video/BV1w5411Y7q3/
-17. 王权暗战 Hidden Leaders
-18. 新创公司 startup 
+9. 小小马戏团 https://www.bilibili.com/video/BV1nf4y167ZC
+10. 情书 love letter https://www.bilibili.com/read/cv11594835
+11. 马拉喀什 https://www.bilibili.com/video/BV1vE411d7wF
+12. 圣托里尼 https://www.bilibili.com/video/BV1iJ411G7js
+13. 斋浦尔 http://www.yihubg.com/rule-details/8a0dc61b-52d2-4623-957d-a36685119a0e
+14. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
+15. 山屋惊魂 https://www.bilibili.com/video/BV1w5411Y7q3/
+16. 王权暗战 Hidden Leaders
+17. 新创公司 startup 
  
  
 ## 中度桌游列表
@@ -54,10 +53,10 @@ A list for all the tabletop games that we provide during our club time.
 7. 骇浪求生（怒海求生）Lifeboat https://www.bilibili.com/video/BV1ai4y1F7cV
 8. 七大奇迹 7 wonders https://www.bilibili.com/video/BV144411a7vk
 9. 奇迹对决 7 wonders duel https://www.bilibili.com/video/BV18U4y1m7R7
-10. 花砖物语 https://tesera.ru/images/items/1108676/EN-Azul-Rules.pdf
+10. 西国建筑师 Architects of the West Kingdom https://www.bilibili.com/video/BV17B4y1P73Z/?spm_id_from=333.999.0.0
 11. 小小世界 small world https://www.bilibili.com/video/BV1Mo4y1f7ZV
 12. 卡坦岛城市骑士扩 https://www.bilibili.com/read/cv25570129/?spm_id_from=333.999.0.0
-13. 庞氏骗局 Ponzi scheme https://www.bilibili.com/video/av46777460/
+13. 苍翠之星 evergreen
 14. 纽约之王 king of New York https://www.bilibili.com/video/BV1oZ4y1u7Cf
 15. 开膛手杰克 Letter from white chapel
 16. 星际探险队 The Crew https://cdn.1j1ju.com/medias/8f/13/09-the-crew-the-quest-for-planet-nine-rulebook.pdf
@@ -66,36 +65,31 @@ A list for all the tabletop games that we provide during our club time.
 19. 指挥与军旗 拿破仑 https://www.gmtgames.com/living_rules/CC_Rules_2009.pdf
 20. 小白世纪 https://munchkin.game/site-munchkin/assets/files/1138/munchkin_rules-1.pdf
 21. 逃离亚特兰蒂斯 Escape from Atlantis https://www.bilibili.com/video/BV1DJ411i7iY
-22. 西国建筑师 Architects of the West Kingdom https://www.bilibili.com/video/BV17B4y1P73Z/?spm_id_from=333.999.0.0
+22. 我是大老板 https://www.bilibili.com/video/BV1uh411676w/
 23. 展翅翱翔 wingspan https://www.bilibili.com/video/BV1gL4y1q733
 24. 白教堂血案
-25. 我是大老板 https://www.bilibili.com/video/BV1uh411676w/
-26. 战国风云 Risk
+25. 战国风云 Risk
+26. 源生引擎 https://www.bilibili.com/video/BV1kh411377w/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 27. 帝国毁灭 https://www.bilibili.com/video/BV19Y411o7qo/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-28. 源生引擎 https://www.bilibili.com/video/BV1kh411377w/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-29. 苍翠之星 evergreen
- 
+
 
 ## 重策桌游列表： 
 1. 幽港迷城 (BGG排名第一) https://www.zhuoyou.com/Web/detail?news_id=726&orderBy=update
 2. 殖民火星 https://www.bilibili.com/video/BV1Vz4y1f72o 
 3. 疯狂诡宅 Mansion of Madness 
-4. 星蚀 https://www.bilibili.com/video/BV1wG411b7vL
-5. 旭日战魂录 https://www.bilibili.com/video/BV1pt411b7ew
-6. 镰刀战争 https://cdn.1j1ju.com/medias/68/bc/6c-scythe-rulebook.pdf
-7. 奥丁的盛宴 https://www.bilibili.com/video/BV1w34y1z7Mq
-8. 盖亚计划 https://images.zmangames.com/filer_public/ce/89/ce890bfd-227e-4249-a52a-976bc5f20d19/en_gaia_rulebook_lo.pdf
-9. 沙丘 https://www.bilibili.com/video/BV16r4y1h7my
-10. 魔戒圣战 https://tesera.ru/images/items/134461/WOTR001-Rulebook_EN_web.pdf
-11. 冷战热斗 https://www.gmtgames.com/living_rules/TS_Rules_Deluxe.pdf
-12. 神秘大地 https://images.zmangames.com/filer_public/3c/b1/3cb1119d-85cb-4905-bfe6-d428a3024e1b/zm7240_terra_mystica_rules.pdf
-13. 方舟动物园 https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf
-14. 大决战：淮海/豫济南战役 https://www.bilibili.com/video/BV1cp411Z7uT/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-15. 工业都市：伯明翰 http://files.roxley.com/Brass-Birmingham-Rulebook-2018.11.20-highlights.pdf
-16. 帝国曙光 Twilight Imperium
-17. 火力战 https://www.bilibili.com/video/BV1u64y1e7mD/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-18. 王冠落地 https://www.bilibili.com/video/BV1KP4y1Y74B/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-19. 明日方舟-游城拓荒：铸基者
+4. 镰刀战争 https://cdn.1j1ju.com/medias/68/bc/6c-scythe-rulebook.pdf
+5. 盖亚计划 https://images.zmangames.com/filer_public/ce/89/ce890bfd-227e-4249-a52a-976bc5f20d19/en_gaia_rulebook_lo.pdf
+6. 沙丘 https://www.bilibili.com/video/BV16r4y1h7my
+7. 魔戒圣战 https://tesera.ru/images/items/134461/WOTR001-Rulebook_EN_web.pdf
+8. 冷战热斗 https://www.gmtgames.com/living_rules/TS_Rules_Deluxe.pdf
+9. 神秘大地 https://images.zmangames.com/filer_public/3c/b1/3cb1119d-85cb-4905-bfe6-d428a3024e1b/zm7240_terra_mystica_rules.pdf
+10. 方舟动物园 https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf
+11. 大决战：淮海/豫济南战役 https://www.bilibili.com/video/BV1cp411Z7uT/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
+12. 工业都市：伯明翰 http://files.roxley.com/Brass-Birmingham-Rulebook-2018.11.20-highlights.pdf
+13. 帝国曙光 Twilight Imperium
+14. 火力战 https://www.bilibili.com/video/BV1u64y1e7mD/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
+15. 王冠落地 https://www.bilibili.com/video/BV1KP4y1Y74B/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
+16. 明日方舟-游城拓荒：铸基者
 
 ## 桌游租借
  - 目前分为押金和损耗：押金以二手价格，损耗为2镑一周。默认借阅时一周，最好周六活动期间来取和返还。
