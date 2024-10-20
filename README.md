@@ -33,14 +33,13 @@ A list for all the tabletop games that we provide during our club time.
 7. 政变疑云 https://www.bilibili.com/video/BV1LL4y1v73R
 8. 妙探寻凶 Cluedo https://tieba.baidu.com/p/128167024
 9. 小小马戏团 https://www.bilibili.com/video/BV1nf4y167ZC
-10. 情书 love letter https://www.bilibili.com/read/cv11594835
-11. 马拉喀什 https://www.bilibili.com/video/BV1vE411d7wF
-12. 圣托里尼 https://www.bilibili.com/video/BV1iJ411G7js
-13. 斋浦尔 http://www.yihubg.com/rule-details/8a0dc61b-52d2-4623-957d-a36685119a0e
-14. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
-15. 山屋惊魂 https://www.bilibili.com/video/BV1w5411Y7q3/
-16. 王权暗战 Hidden Leaders
-17. 新创公司 startup 
+10. 马拉喀什 https://www.bilibili.com/video/BV1vE411d7wF
+11. 圣托里尼 https://www.bilibili.com/video/BV1iJ411G7js
+12. 斋浦尔 http://www.yihubg.com/rule-details/8a0dc61b-52d2-4623-957d-a36685119a0e
+13. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
+14. 山屋惊魂 https://www.bilibili.com/video/BV1w5411Y7q3/
+15. 王权暗战 Hidden Leaders
+16. 新创公司 startup 
  
  
 ## 中度桌游列表
