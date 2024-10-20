@@ -89,6 +89,7 @@ A list for all the tabletop games that we provide during our club time.
 14. 火力战 https://www.bilibili.com/video/BV1u64y1e7mD/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 15. 王冠落地 https://www.bilibili.com/video/BV1KP4y1Y74B/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 16. 明日方舟-游城拓荒：铸基者
+17. 灵迹岛 Spirit Island
 
 ## 桌游租借
  - 目前分为押金和损耗：押金以二手价格，损耗为2镑一周。默认借阅时一周，最好周六活动期间来取和返还。
