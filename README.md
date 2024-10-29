@@ -79,16 +79,17 @@ A list for all the tabletop games that we provide during our club time.
 4. 工业都市：伯明翰 http://files.roxley.com/Brass-Birmingham-Rulebook-2018.11.20-highlights.pdf
 5. 方舟动物园 Ark Nova https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf
 6. 沙丘 Dune https://www.bilibili.com/video/BV16r4y1h7my
-7. 魔戒圣战 https://tesera.ru/images/items/134461/WOTR001-Rulebook_EN_web.pdf
-8. 冷战热斗 https://www.gmtgames.com/living_rules/TS_Rules_Deluxe.pdf
-9. 神秘大地 https://images.zmangames.com/filer_public/3c/b1/3cb1119d-85cb-4905-bfe6-d428a3024e1b/zm7240_terra_mystica_rules.pdf
-10. 大西部开拓者 Great Western Trail
-11. 明日方舟-游城拓荒：铸基者
-12. 大决战：淮海/豫济南战役 https://www.bilibili.com/video/BV1cp411Z7uT/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-13. 灵迹岛 Spirit Island
-14. 帝国曙光 Twilight Imperium
-15. 火力战 https://www.bilibili.com/video/BV1u64y1e7mD/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-16. 王冠落地 https://www.bilibili.com/video/BV1KP4y1Y74B/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
+7. 镰刀战争 Scythe
+8. 魔戒圣战 https://tesera.ru/images/items/134461/WOTR001-Rulebook_EN_web.pdf
+9. 冷战热斗 https://www.gmtgames.com/living_rules/TS_Rules_Deluxe.pdf
+10. 神秘大地 	https://images.zmangames.com/filer_public/3c/b1/3cb1119d-85cb-4905-bfe6-d428a3024e1b/zm7240_terra_mystica_rules.pdf
+11. 大西部开拓者 Great Western Trail
+12. 明日方舟-游城拓荒：铸基者
+13. 大决战：淮海/豫济南战役 https://www.bilibili.com/video/BV1cp411Z7uT/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
+14. 灵迹岛 Spirit Island
+15. 帝国曙光 Twilight Imperium
+16. 火力战 https://www.bilibili.com/video/BV1u64y1e7mD/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
+17. 王冠落地 https://www.bilibili.com/video/BV1KP4y1Y74B/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 
 ## 桌游租借
  - 目前分为押金和损耗：押金以二手价格，损耗为2镑一周。默认借阅时一周，最好周六活动期间来取和返还。
