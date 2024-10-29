@@ -35,7 +35,7 @@ A list for all the tabletop games that we provide during our club time.
 9. 小小马戏团 https://www.bilibili.com/video/BV1nf4y167ZC
 10. 马拉喀什 https://www.bilibili.com/video/BV1vE411d7wF
 11. 圣托里尼 https://www.bilibili.com/video/BV1iJ411G7js
-12. 斋浦尔 http://www.yihubg.com/rule-details/8a0dc61b-52d2-4623-957d-a36685119a0e
+12. 斋浦尔 
 13. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
 14. 山屋惊魂（山中小屋） https://www.bilibili.com/video/BV1w5411Y7q3/
 15. 王权暗战 Hidden Leaders
