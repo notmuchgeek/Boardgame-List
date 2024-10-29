@@ -48,16 +48,16 @@ A list for all the tabletop games that we provide during our club time.
 ## 中度桌游列表
 1. 三国杀国战 Battles among four kingdoms https://zhuanlan.zhihu.com/p/83804811
 2. 卡坦岛（含多人扩展包）Catan https://www.bilibili.com/video/BV1Rb411679e
-3. 马尼拉 https://www.bilibili.com/video/BV1tt411k7uP
+3. 骇浪求生（怒海求生）Lifeboat https://www.bilibili.com/video/BV1ai4y1F7cV
 4. 波多黎各 Puerto Rico https://desktopgames.com.ua/games/1058/puerto-rico-rules-en.pdf
-5. 现代艺术 Modern art https://www.bilibili.com/video/BV1ii4y1Z7FF/
+5. 马尼拉 https://www.bilibili.com/video/BV1tt411k7uP
 6. 铁路环游 ticket to ride https://www.bilibili.com/video/BV1R3411b7Rt
-7. 骇浪求生（怒海求生）Lifeboat https://www.bilibili.com/video/BV1ai4y1F7cV
-8. 七大奇迹 7 wonders https://www.bilibili.com/video/BV144411a7vk
-9. 奇迹对决 7 wonders duel https://www.bilibili.com/video/BV18U4y1m7R7
-10. 西国建筑师 Architects of the West Kingdom https://www.bilibili.com/video/BV17B4y1P73Z/?spm_id_from=333.999.0.0
-11. 小小世界 small world https://www.bilibili.com/video/BV1Mo4y1f7ZV
-12. 卡坦岛城市骑士扩 Catan Seafarers，cities&knights https://www.bilibili.com/read/cv25570129/?spm_id_from=333.999.0.0
+7. 现代艺术 Modern art https://www.bilibili.com/video/BV1ii4y1Z7FF/
+8. 卡坦岛城市骑士扩 Catan Seafarers，cities&knights https://www.bilibili.com/read/cv25570129/?spm_id_from=333.999.0.0
+9. 西国建筑师 Architects of the West Kingdom https://www.bilibili.com/video/BV17B4y1P73Z/?spm_id_from=333.999.0.0
+10. 七大奇迹 7 wonders https://www.bilibili.com/video/BV144411a7vk
+11. 奇迹对决 7 wonders duel https://www.bilibili.com/video/BV18U4y1m7R7
+12. 小小世界 small world https://www.bilibili.com/video/BV1Mo4y1f7ZV
 13. 我是大老板 https://www.bilibili.com/video/BV1uh411676w/
 14. 纽约之王 king of New York https://www.bilibili.com/video/BV1oZ4y1u7Cf
 15. 白教堂血案 Letter from white chapel
