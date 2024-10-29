@@ -39,7 +39,7 @@ A list for all the tabletop games that we provide during our club time.
 13. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
 14. 山屋惊魂（山中小屋） https://www.bilibili.com/video/BV1w5411Y7q3/
 15. 王权暗战 Hidden Leaders
-16. 新创公司 startup
+16. 新创公司 startup https://www.bilibili.com/video/BV1JH4y1M7nR/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 17. 好莱坞 1947 Hollywood1947
 18. 海盗岛 1667 Tortuga1667
 19. 猎巫镇 1692 Salem1692
@@ -67,7 +67,7 @@ A list for all the tabletop games that we provide during our club time.
 19. 展翅翱翔 wingspan https://www.bilibili.com/video/BV1gL4y1q733
 20. 小白世纪 https://munchkin.game/site-munchkin/assets/files/1138/munchkin_rules-1.pdf
 21. 逃离亚特兰蒂斯 Escape from Atlantis https://www.bilibili.com/video/BV1DJ411i7iY
-22. 苍翠之星 evergreen
+22. 苍翠之星 evergreen https://www.bilibili.com/video/BV1KD42157Vo/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 23. 战国风云 Risk
 24. 源生引擎 https://www.bilibili.com/video/BV1kh411377w/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 25. 帝国毁灭 https://www.bilibili.com/video/BV19Y411o7qo/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
@@ -84,7 +84,7 @@ A list for all the tabletop games that we provide during our club time.
 9. 冷战热斗 https://www.gmtgames.com/living_rules/TS_Rules_Deluxe.pdf
 10. 神秘大地 	https://images.zmangames.com/filer_public/3c/b1/3cb1119d-85cb-4905-bfe6-d428a3024e1b/zm7240_terra_mystica_rules.pdf
 11. 大西部开拓者 Great Western Trail
-12. 明日方舟-游城拓荒：铸基者
+12. 明日方舟-游城拓荒：铸基者 https://www.bilibili.com/video/BV1sw411z7iF/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 13. 大决战：淮海/豫济南战役 https://www.bilibili.com/video/BV1cp411Z7uT/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 14. 灵迹岛 Spirit Island
 15. 帝国曙光 Twilight Imperium
