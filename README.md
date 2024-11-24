@@ -73,6 +73,7 @@ A list for all the tabletop games that we provide during our club time.
 24. 源生引擎 https://www.bilibili.com/video/BV1kh411377w/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 25. 帝国毁灭 https://www.bilibili.com/video/BV19Y411o7qo/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 26. Daybreak https://www.youtube.com/watch?v=cndiLvSA-9g
+27. 茂林源记 Root
 
 ## 重策桌游列表： 
 1. 幽港迷城 (BGG排名第一) https://www.zhuoyou.com/Web/detail?news_id=726&orderBy=update
