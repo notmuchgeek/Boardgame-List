@@ -28,7 +28,7 @@ A list for all the tabletop games that we provide during our club time.
 2. 璀璨宝石 Splendor https://www.bilibili.com/video/BV1pD4y1o7ta
 3. 卡卡颂 Carcassonne https://www.bilibili.com/video/BV1ft411x7pt
 4. 大富翁 Monopoly https://www.ultraboardgames.com/monopoly/game-rules.php
-5. 德国心脏病 (哈利果铃） https://www.ultraboardgames.com/halli-galli/game-rules.php
+5. 德国心脏病 https://www.ultraboardgames.com/halli-galli/game-rules.php
 6. 矮人掘金 https://www.bilibili.com/video/BV14p4y1D7mC
 7. 政变疑云 Coup https://www.bilibili.com/video/BV1LL4y1v73R
 8. 妙探寻凶 Cluedo https://tieba.baidu.com/p/128167024
@@ -42,9 +42,8 @@ A list for all the tabletop games that we provide during our club time.
 16. 新创公司 startup https://www.bilibili.com/video/BV1JH4y1M7nR/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 17. 好莱坞 1947 Hollywood1947
 18. 海盗岛 1667 Tortuga1667
-19. 猎巫镇 1692 Salem1692
-20. 黑死城 1350 Bristol1350
-21. 自然和弦 Harmonies
+19. 黑死城 1350 Bristol1350
+20. 自然和弦 Harmonies
  
 ## 中度桌游列表
 1. 三国杀国战 Battles among four kingdoms https://zhuanlan.zhihu.com/p/83804811
@@ -72,11 +71,10 @@ A list for all the tabletop games that we provide during our club time.
 23. 战国风云 Risk
 24. 源生引擎 https://www.bilibili.com/video/BV1kh411377w/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 25. 帝国毁灭 https://www.bilibili.com/video/BV19Y411o7qo/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-26. Daybreak https://www.youtube.com/watch?v=cndiLvSA-9g
-27. 茂林源记 Root
+26. 茂林源记 Root
 
 ## 重策桌游列表： 
-1. 幽港迷城 (BGG排名第一) https://www.zhuoyou.com/Web/detail?news_id=726&orderBy=update
+1. 幽港迷城 Gloomheaven https://www.zhuoyou.com/Web/detail?news_id=726&orderBy=update
 2. 殖民火星 Terraforming Mars https://www.bilibili.com/video/BV1Vz4y1f72o 
 3. 疯狂诡宅 Mansion of Madness 
 4. 工业都市：伯明翰 http://files.roxley.com/Brass-Birmingham-Rulebook-2018.11.20-highlights.pdf
