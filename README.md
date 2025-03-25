@@ -91,6 +91,7 @@ A list for all the tabletop games that we provide during our club time.
 15. 帝国曙光 Twilight Imperium
 16. 火力战 https://www.bilibili.com/video/BV1u64y1e7mD/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 17. 王冠落地 https://www.bilibili.com/video/BV1KP4y1Y74B/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
+18. 强权外交 Diplomacy https://webdiplomacy.net/index.php?
 
 ## 桌游租借
  - 目前分为押金和损耗：押金以二手价格，损耗为2镑一周。默认借阅时一周，最好周六活动期间来取和返还。
