@@ -39,14 +39,15 @@ A list for all the tabletop games that we provide during our club time.
 13. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
 14. 山屋惊魂（山中小屋） https://www.bilibili.com/video/BV1w5411Y7q3/
 15. 王权暗战 Hidden Leaders
-16. 新创公司 startup https://www.bilibili.com/video/BV1JH4y1M7nR/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-17. 好莱坞 1947 Hollywood1947
-18. 海盗岛 1667 Tortuga1667
-19. 黑死城 1350 Bristol1350
-20. 自然和弦 Harmonies
-21. 七大奇迹 7 wonders https://www.bilibili.com/video/BV144411a7vk
-22. 马戏星探 Scout
-23. 瘟疫危机 Pandemic
+16. 行动代号 Codenames
+17. 新创公司 startup https://www.bilibili.com/video/BV1JH4y1M7nR/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
+18. 好莱坞 1947 Hollywood1947
+19. 海盗岛 1667 Tortuga1667
+20. 黑死城 1350 Bristol1350
+21. 自然和弦 Harmonies
+22. 七大奇迹 7 wonders https://www.bilibili.com/video/BV144411a7vk
+23. 马戏星探 Scout
+24. 瘟疫危机 Pandemic
  
 ## 中度桌游列表
 1. 三国杀国战 Battles among four kingdoms https://zhuanlan.zhihu.com/p/83804811
