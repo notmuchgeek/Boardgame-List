@@ -35,7 +35,7 @@ A list for all the tabletop games that we provide during our club time.
 9. 小小马戏团 https://www.bilibili.com/video/BV1nf4y167ZC
 10. 马拉喀什 https://www.bilibili.com/video/BV1vE411d7wF
 11. 圣托里尼 https://www.bilibili.com/video/BV1iJ411G7js
-12. 斋浦尔 
+12. 斋浦尔 Jaipur
 13. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
 14. 山屋惊魂（山中小屋） https://www.bilibili.com/video/BV1w5411Y7q3/
 15. 王权暗战 Hidden Leaders
@@ -44,6 +44,9 @@ A list for all the tabletop games that we provide during our club time.
 18. 海盗岛 1667 Tortuga1667
 19. 黑死城 1350 Bristol1350
 20. 自然和弦 Harmonies
+21. 七大奇迹 7 wonders https://www.bilibili.com/video/BV144411a7vk
+22. 马戏星探 Scout
+23. 瘟疫危机 Pandemic
  
 ## 中度桌游列表
 1. 三国杀国战 Battles among four kingdoms https://zhuanlan.zhihu.com/p/83804811
@@ -55,7 +58,7 @@ A list for all the tabletop games that we provide during our club time.
 7. 现代艺术 Modern art https://www.bilibili.com/video/BV1ii4y1Z7FF/
 8. 卡坦岛城市骑士扩 Catan Seafarers，cities&knights https://www.bilibili.com/read/cv25570129/?spm_id_from=333.999.0.0
 9. 西国建筑师 Architects of the West Kingdom https://www.bilibili.com/video/BV17B4y1P73Z/?spm_id_from=333.999.0.0
-10. 七大奇迹 7 wonders https://www.bilibili.com/video/BV144411a7vk
+10. 逃离亚特兰蒂斯 Escape from Atlantis https://www.bilibili.com/video/BV1DJ411i7iY
 11. 奇迹对决 7 wonders duel https://www.bilibili.com/video/BV18U4y1m7R7
 12. 小小世界 small world https://www.bilibili.com/video/BV1Mo4y1f7ZV
 13. 我是大老板 https://www.bilibili.com/video/BV1uh411676w/
@@ -66,12 +69,10 @@ A list for all the tabletop games that we provide during our club time.
 18. 指挥与军旗2 古代篇 https://www.gmtgames.com/living_rules/CC_Rules_2009.pdf
 19. 展翅翱翔 wingspan https://www.bilibili.com/video/BV1gL4y1q733
 20. 小白世纪 https://munchkin.game/site-munchkin/assets/files/1138/munchkin_rules-1.pdf
-21. 逃离亚特兰蒂斯 Escape from Atlantis https://www.bilibili.com/video/BV1DJ411i7iY
+21. 源生引擎 https://www.bilibili.com/video/BV1kh411377w/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 22. 苍翠之星 evergreen https://www.bilibili.com/video/BV1KD42157Vo/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 23. 战国风云 Risk
-24. 源生引擎 https://www.bilibili.com/video/BV1kh411377w/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-25. 帝国毁灭 https://www.bilibili.com/video/BV19Y411o7qo/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-26. 茂林源记 Root
+24. 帝国毁灭 https://www.bilibili.com/video/BV19Y411o7qo/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 
 ## 重策桌游列表： 
 1. 幽港迷城 Gloomheaven https://www.zhuoyou.com/Web/detail?news_id=726&orderBy=update
@@ -80,8 +81,8 @@ A list for all the tabletop games that we provide during our club time.
 4. 工业都市：伯明翰 http://files.roxley.com/Brass-Birmingham-Rulebook-2018.11.20-highlights.pdf
 5. 方舟动物园 Ark Nova https://capstone-games.com/wp-content/uploads/2021/10/Ark-Nova-Rulebook.pdf
 6. 沙丘 Dune https://www.bilibili.com/video/BV16r4y1h7my
-7. 镰刀战争 Scythe
-8. 魔戒圣战 https://tesera.ru/images/items/134461/WOTR001-Rulebook_EN_web.pdf
+7. 镰刀战争 Scythe https://cdn.1j1ju.com/medias/68/bc/6c-scythe-rulebook.pdf
+8. 魔戒圣战 War of the Ring https://tesera.ru/images/items/134461/WOTR001-Rulebook_EN_web.pdf
 9. 冷战热斗 https://www.gmtgames.com/living_rules/TS_Rules_Deluxe.pdf
 10. 神秘大地 	https://images.zmangames.com/filer_public/3c/b1/3cb1119d-85cb-4905-bfe6-d428a3024e1b/zm7240_terra_mystica_rules.pdf
 11. 大西部开拓者 Great Western Trail
@@ -91,7 +92,9 @@ A list for all the tabletop games that we provide during our club time.
 15. 帝国曙光 Twilight Imperium
 16. 火力战 https://www.bilibili.com/video/BV1u64y1e7mD/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
 17. 王冠落地 https://www.bilibili.com/video/BV1KP4y1Y74B/?share_source=copy_web&vd_source=c457ad7c803bcdf6c27f476b646c69f5
-18. 强权外交 Diplomacy https://webdiplomacy.net/index.php?
+18. 星蚀 Eclipse https://www.bilibili.com/video/BV1wG411b7vL
+19. 茂林源记 Root
+20. 强权外交 Diplomacy https://webdiplomacy.net/index.php?
 
 ## 桌游租借
  - 目前分为押金和损耗：押金以二手价格，损耗为2镑一周。默认借阅时一周，最好周六活动期间来取和返还。
