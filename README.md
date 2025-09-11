@@ -44,10 +44,12 @@ A list for all the tabletop games that we provide during our club time.
 18. 好莱坞 1947 Hollywood1947
 19. 海盗岛 1667 Tortuga1667
 20. 黑死城 1350 Bristol1350
-21. 自然和弦 Harmonies
+21. 自然和弦 Harmonies ttps://www.bilibili.com/video/BV1YPH7eSEeQ/?spm_id_from=333.337.search-card.all.click&vd_source=2dd16e002a74c7a4067a51e2d9251db9
 22. 七大奇迹 7 wonders https://www.bilibili.com/video/BV144411a7vk
 23. 马戏星探 Scout
 24. 瘟疫危机 Pandemic
+25. 情书 Love Letter
+26. 炸弹猫 Exploding Kittens
  
 ## 中度桌游列表
 1. 三国杀国战 Battles among four kingdoms https://zhuanlan.zhihu.com/p/83804811
